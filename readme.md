@@ -14,7 +14,7 @@ JavaScript
 
 
 ### Wireframes
-[heart image](img1.png)
+![heart image](img1.png)
 
 Your step by step planning sketch of your project, that you can post them as an image in here.
 
